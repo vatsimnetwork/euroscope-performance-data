@@ -6,5 +6,8 @@ All inputs are welcome, either directly as a pull request, or via reporting an i
 
 ## Data format
 Pull requests shall follow the format specified in https://www.euroscope.hu/wp/scenario-file/ (chapter "Aircraft Performance Data"), which is:
-PERFAC:A346 = ICAO ATYP
-PERFLINE = FL:climb speed:cruize speed:descent speed:climb Mach:cruize Mach:descent Mach:ROC:ROD
+
+
+``PERFAC:A346 = ICAO ATYP``
+
+``PERFLINE = FL:climb speed:cruize speed:descent speed:climb Mach:cruize Mach:descent Mach:ROC:ROD``
